@@ -7,10 +7,10 @@ in the oven and burned it while watching sports?
 Why not putting your Raspberry Pi in use and build a LED timer so that next time your buns are in the oven, you
 get notified with red or green LEDs about whether the buns are done or not?
 
-![The oven is hot!](/docs/baking.jpg)
+![The oven is hot!](/images/baking.jpg)
 
-![Time to take them out from the oven!](/docs/done.jpg)
+![Time to take them out from the oven!](/images/done.jpg)
 
-![Om nom nom nom!](/docs/result.jpg)
+![Om nom nom nom!](/images/result.jpg)
 
-![Connections](/docs/timer.png)
+![Connections](/images/timer.png)
